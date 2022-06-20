@@ -1,9 +1,12 @@
-package com.example.zalazmap.domain.model
+package com.example.zalazmap.data.station
 
+import androidx.room.Entity
+import androidx.room.PrimaryKey
 import kotlinx.serialization.Serializable
 
+@Entity
 @Serializable
-data class Station(
+data class StationEntity(
     val direction: String,
     val latitude: Double,
     val longitude: Double,
@@ -12,5 +15,5 @@ data class Station(
     var isBypassing: Boolean? = null,
     var isExplored: Boolean = false,
     var comment: String? = null,
-    val id: Int?
+    @PrimaryKey(autoGenerate = true) val id: Int? = null
 )

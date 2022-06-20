@@ -1,28 +1,29 @@
 package com.example.zalazmap.domain.repository
 
-import android.content.Context
+import com.example.zalazmap.data.station.StationDao
+import com.example.zalazmap.data.station.StationEntity
+import com.example.zalazmap.data.station.toStation
+import com.example.zalazmap.data.station.toStationEntity
 import com.example.zalazmap.domain.model.Station
-import kotlinx.serialization.ExperimentalSerializationApi
-import kotlinx.serialization.decodeFromString
-import kotlinx.serialization.json.Json
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.map
 
 class StationRepositoryImpl(
-    private val context: Context
+    private val dao: StationDao
 ) : StationRepository {
-    @OptIn(ExperimentalSerializationApi::class)
-    override fun getAllStations(): List<Station> {
-        val jsonData = context.applicationContext.resources.openRawResource(
-            context.applicationContext.resources.getIdentifier(
-                "stations",
-                "raw",
-                context.applicationContext.packageName
-            )
-        ).bufferedReader().use { it.readText() }
-
-        return Json.decodeFromString<List<Station>>(jsonData).filter {
-            it.direction != "МЦК: Московское центральное кольцо"
-                    && it.direction != "Московский монорельс"
-                    && it.direction != ""
+    override fun getAllStations(): Flow<List<Station>> {
+        return dao.getStations().map { stations ->
+            stations.map { it.toStation() }
         }
     }
+
+    override suspend fun updateStation(station: Station) {
+        dao.updateStation(station.toStationEntity())
+    }
+
+    override suspend fun findStationById(id: Int): Station {
+        return dao.findStationById(id).toStation()
+    }
+
+
 }

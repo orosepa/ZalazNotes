@@ -28,10 +28,9 @@ import com.google.android.gms.maps.model.*
 import com.google.maps.android.compose.*
 import kotlinx.coroutines.launch
 
-@SuppressLint("MissingPermission")
 @Composable
 fun MapScreen(
-    viewModel: MapsViewModel = androidx.lifecycle.viewmodel.compose.viewModel()
+    viewModel: MapsViewModel = viewModel()
 ) {
 
     val scaffoldState = rememberScaffoldState()
@@ -93,6 +92,9 @@ fun MapScreen(
                             it.showInfoWindow()
                         }
                         true
+                    },
+                    onInfoWindowLongClick = {
+                        viewModel.onEvent(MapEvent.OnInfoWindowLongClick(station))
                     }
                 )
             }
@@ -108,6 +110,7 @@ fun MapMarker(
     snippet: String,
     color: Int,
     onClick: (Marker) -> Boolean,
+    onInfoWindowLongClick: (Marker) -> Unit,
     @DrawableRes iconResourceId: Int
 ) {
     val icon = bitmapDescriptorFromVector(
@@ -119,7 +122,8 @@ fun MapMarker(
         snippet = snippet,
         icon = icon,
         alpha = 0.5f,
-        onClick = onClick
+        onClick = onClick,
+        onInfoWindowLongClick = onInfoWindowLongClick
     ) {
         Column (
             modifier = Modifier
