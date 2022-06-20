@@ -19,6 +19,10 @@ class StationRepositoryImpl(
             )
         ).bufferedReader().use { it.readText() }
 
-        return Json.decodeFromString(jsonData)
+        return Json.decodeFromString<List<Station>>(jsonData).filter {
+            it.direction != "МЦК: Московское центральное кольцо"
+                    && it.direction != "Московский монорельс"
+                    && it.direction != ""
+        }
     }
 }
