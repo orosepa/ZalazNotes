@@ -42,7 +42,7 @@ fun MapScreen(
             cameraPositionState = cameraPositionState,
         ) {
             viewModel.state.stations.forEach { station ->
-                val stationState = MarkerState(
+                val stationState = rememberMarkerState(
                     position = LatLng(station.latitude, station.longitude)
                 )
                 MapMarker(
