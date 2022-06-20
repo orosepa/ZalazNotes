@@ -1,0 +1,4052 @@
+                  [
+                      {
+                          "direction": "Савёловское",
+                          "title": "Катуар",
+                          "longitude": 37.504179,
+                          "latitude": 56.090875
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Электросталь",
+                          "longitude": 38.46093,
+                          "latitude": 55.786755
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Машиностроитель",
+                          "longitude": 38.454543,
+                          "latitude": 55.801182
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Металлург",
+                          "longitude": 38.468788,
+                          "latitude": 55.768282
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Ямуга",
+                          "longitude": 36.622351,
+                          "latitude": 56.403804
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Алпатьево",
+                          "longitude": 39.326697,
+                          "latitude": 54.879871
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Берендино",
+                          "longitude": 38.8090343227539,
+                          "latitude": 55.4102024874362
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Хрипань",
+                          "longitude": 38.175228,
+                          "latitude": 55.638649
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Удельная",
+                          "longitude": 38.044441,
+                          "latitude": 55.634723
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Лошатовка",
+                          "longitude": 38.8209279914016,
+                          "latitude": 54.5712799845624
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Малино",
+                          "longitude": 38.165837,
+                          "latitude": 55.12215
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Решетниково",
+                          "longitude": 36.567109,
+                          "latitude": 56.449754
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Вельяминово",
+                          "longitude": 37.920347,
+                          "latitude": 55.205894
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Бронницы",
+                          "longitude": 38.363414,
+                          "latitude": 55.498611
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Подольск",
+                          "longitude": 37.565806,
+                          "latitude": 55.432316
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Кутузовская",
+                          "longitude": 37.54862,
+                          "latitude": 55.403796
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "71 км",
+                          "longitude": 37.701826,
+                          "latitude": 56.315218
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Хорлово",
+                          "longitude": 38.8113570317381,
+                          "latitude": 55.3400341348614
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Красково",
+                          "longitude": 37.98242,
+                          "latitude": 55.64996
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Рязановка",
+                          "longitude": 39.5581333525,
+                          "latitude": 55.1470221051
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Купавна",
+                          "longitude": 38.12064,
+                          "latitude": 55.753256
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Ботино",
+                          "longitude": 39.600604,
+                          "latitude": 55.565255
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Луговая",
+                          "longitude": 37.492611,
+                          "latitude": 56.048855
+                      },
+                      {
+                          "direction": "МЦД-1",
+                          "title": "Сколково",
+                          "longitude": 37.342951,
+                          "latitude": 55.700206
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Жилёво",
+                          "longitude": 38.030906,
+                          "latitude": 54.986401
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Акри",
+                          "longitude": 38.119387,
+                          "latitude": 54.873154
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Темпы",
+                          "longitude": 37.297211,
+                          "latitude": 56.635141
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Морозки",
+                          "longitude": 37.526221,
+                          "latitude": 56.207488
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Бужаниново",
+                          "longitude": 38.308468,
+                          "latitude": 56.391849
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Власово",
+                          "longitude": 37.562323,
+                          "latitude": 56.639258
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Долгопрудная",
+                          "longitude": 37.51995118518028,
+                          "latitude": 55.940027927840376
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Новодачная",
+                          "longitude": 37.527858,
+                          "latitude": 55.924457
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Дубна",
+                          "longitude": 37.200293,
+                          "latitude": 56.745844
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Большая Волга",
+                          "longitude": 37.136997,
+                          "latitude": 56.726287
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Крюково",
+                          "longitude": 37.173888,
+                          "latitude": 55.980039
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Москва (Курский вокзал)",
+                          "longitude": 37.660784,
+                          "latitude": 55.757383
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Москва (Ярославский вокзал)",
+                          "longitude": 37.657484,
+                          "latitude": 55.777685
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Москва (Казанский вокзал)",
+                          "longitude": 37.65665372617877,
+                          "latitude": 55.77371724425933
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Москва (Павелецкий вокзал)",
+                          "longitude": 37.640771,
+                          "latitude": 55.729498
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Москва (Белорусский вокзал)",
+                          "longitude": 37.57958027843418,
+                          "latitude": 55.7764527677074
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Москва (Киевский вокзал)",
+                          "longitude": 37.565187,
+                          "latitude": 55.742799
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Москва (Рижский вокзал)",
+                          "longitude": 37.632957,
+                          "latitude": 55.794213
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Москва (Савёловский вокзал)",
+                          "longitude": 37.589184,
+                          "latitude": 55.795104
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Москва (Ленинградский вокзал)",
+                          "longitude": 37.654377,
+                          "latitude": 55.778353
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Москва (Восточный вокзал)",
+                          "longitude": 37.74727184099061,
+                          "latitude": 55.80299322000356
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Царицыно",
+                          "longitude": 37.668953,
+                          "latitude": 55.618421
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Дмитровская",
+                          "longitude": 37.578562,
+                          "latitude": 55.808007
+                      },
+                      {
+                          "direction": "МЦД-1",
+                          "title": "Рабочий Посёлок",
+                          "longitude": 37.417904,
+                          "latitude": 55.72688
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Перово",
+                          "longitude": 37.76426337301612,
+                          "latitude": 55.73577931997903
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Солнечная",
+                          "longitude": 37.385518,
+                          "latitude": 55.657359
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Плющево",
+                          "longitude": 37.774398,
+                          "latitude": 55.730685
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Рижская (МЦД-2)",
+                          "longitude": 37.638464,
+                          "latitude": 55.793981
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Локомотив (Черкизово)",
+                          "longitude": 37.746102,
+                          "latitude": 55.803193
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Сортировочная",
+                          "longitude": 37.720641,
+                          "latitude": 55.763676
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Выхино",
+                          "longitude": 37.816304,
+                          "latitude": 55.716388
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Косино",
+                          "longitude": 37.847565,
+                          "latitude": 55.705827
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Авиамоторная",
+                          "longitude": 37.721612,
+                          "latitude": 55.750411
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Электрозаводская",
+                          "longitude": 37.705088,
+                          "latitude": 55.781358
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Варшавская",
+                          "longitude": 37.6222109828028,
+                          "latitude": 55.6539320421164
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Кусково",
+                          "longitude": 37.794648,
+                          "latitude": 55.739529
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Бирюлёво-Пасс.",
+                          "longitude": 37.6594893386229,
+                          "latitude": 55.582341973847
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Новогиреево",
+                          "longitude": 37.819372,
+                          "latitude": 55.744484
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Серп и Молот",
+                          "longitude": 37.682191,
+                          "latitude": 55.748162
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Окружная",
+                          "longitude": 37.574303,
+                          "latitude": 55.847684
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Нижегородская (Горьковское направление)",
+                          "longitude": 37.729584,
+                          "latitude": 55.733381
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Чухлинка",
+                          "longitude": 37.763128,
+                          "latitude": 55.733396
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Вешняки",
+                          "longitude": 37.798455,
+                          "latitude": 55.722288
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Андроновка (Казанское направление)",
+                          "longitude": 37.740898,
+                          "latitude": 55.744544
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Марк",
+                          "longitude": 37.538238,
+                          "latitude": 55.904416
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Лихоборы (бывш. НАТИ)",
+                          "longitude": 37.552388,
+                          "latitude": 55.850121
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Петровско-Разумовская",
+                          "longitude": 37.568878,
+                          "latitude": 55.839487
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Моссельмаш",
+                          "longitude": 37.528172,
+                          "latitude": 55.861738
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Останкино",
+                          "longitude": 37.603743,
+                          "latitude": 55.81705
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Аэропорт Шереметьево - Северный терминал (B, C)",
+                          "longitude": 37.41378890598563,
+                          "latitude": 55.982324511253324
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Аэропорт Шереметьево (юг - D, E, F)",
+                          "longitude": 37.41689064112869,
+                          "latitude": 55.96401095530009
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Москва-Каланчёвская",
+                          "longitude": 37.65162882208954,
+                          "latitude": 55.77649773912353
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Битца",
+                          "longitude": 37.611501,
+                          "latitude": 55.57124
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Текстильщики",
+                          "longitude": 37.729527,
+                          "latitude": 55.707074
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Тушинская (Тушино)",
+                          "longitude": 37.440709,
+                          "latitude": 55.827247
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Матвеевская",
+                          "longitude": 37.481479,
+                          "latitude": 55.704553
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Фили",
+                          "longitude": 37.51487,
+                          "latitude": 55.74425
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Лось",
+                          "longitude": 37.710886,
+                          "latitude": 55.880081
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Лианозово",
+                          "longitude": 37.553562,
+                          "latitude": 55.897182
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Калитники",
+                          "longitude": 37.702536,
+                          "latitude": 55.733813
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Очаково",
+                          "longitude": 37.45077,
+                          "latitude": 55.683215
+                      },
+                      {
+                          "direction": "МЦД-1",
+                          "title": "Сетунь",
+                          "longitude": 37.397816,
+                          "latitude": 55.7239
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Москва-3",
+                          "longitude": 37.651575,
+                          "latitude": 55.801863
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Белокаменная",
+                          "longitude": 37.702434,
+                          "latitude": 55.829483
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Дегунино",
+                          "longitude": 37.57308,
+                          "latitude": 55.865816
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Ростокино (Ярославское направление)",
+                          "longitude": 37.669916,
+                          "latitude": 55.8412
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Яуза",
+                          "longitude": 37.671161,
+                          "latitude": 55.829373
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Покровско-Стрешнево",
+                          "longitude": 37.476693,
+                          "latitude": 55.814211
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Покровское",
+                          "longitude": 37.631794,
+                          "latitude": 55.602668
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Бутово",
+                          "longitude": 37.570613,
+                          "latitude": 55.541249
+                      },
+                      {
+                          "direction": "",
+                          "title": "Москва 2 митьково",
+                          "longitude": 37.6706697419286,
+                          "latitude": 55.7855779697816
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Мещерская",
+                          "longitude": 37.420307861731885,
+                          "latitude": 55.66546944353695
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Тестовская",
+                          "longitude": 37.531472,
+                          "latitude": 55.753827
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Савёловская",
+                          "longitude": 37.590095,
+                          "latitude": 55.79427
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Станколит",
+                          "longitude": 37.598675,
+                          "latitude": 55.799496
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Беговая",
+                          "longitude": 37.550457,
+                          "latitude": 55.773264
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Поклонная",
+                          "longitude": 37.511543,
+                          "latitude": 55.728368
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Стрешнево (МЦД-2)",
+                          "longitude": 37.490073,
+                          "latitude": 55.815255
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Бирюлёво-Тов.",
+                          "longitude": 37.6538257962951,
+                          "latitude": 55.5927668146712
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Москворечье",
+                          "longitude": 37.689863,
+                          "latitude": 55.64094
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Лосиноостровская",
+                          "longitude": 37.683434,
+                          "latitude": 55.862723
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Кунцевская",
+                          "longitude": 37.449246,
+                          "latitude": 55.726867
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Булатниково",
+                          "longitude": 37.668010015869,
+                          "latitude": 55.5663761888925
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Люблино",
+                          "longitude": 37.73372,
+                          "latitude": 55.685067
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Бескудниково",
+                          "longitude": 37.567571,
+                          "latitude": 55.882722
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Москва-Товарная",
+                          "longitude": 37.688808,
+                          "latitude": 55.745427
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Маленковская",
+                          "longitude": 37.662939,
+                          "latitude": 55.814314
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Перерва",
+                          "longitude": 37.71679,
+                          "latitude": 55.661307
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Гражданская",
+                          "longitude": 37.553774,
+                          "latitude": 55.805353
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Красный Строитель",
+                          "longitude": 37.615052,
+                          "latitude": 55.589605
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Красный Балтиец",
+                          "longitude": 37.526368,
+                          "latitude": 55.815512
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Нагатинская",
+                          "longitude": 37.621104,
+                          "latitude": 55.682026
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Тульская",
+                          "longitude": 37.622951,
+                          "latitude": 55.704032
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Переделкино",
+                          "longitude": 37.355554,
+                          "latitude": 55.656304
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Дербеневская",
+                          "longitude": 37.643184,
+                          "latitude": 55.717501
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Трикотажная",
+                          "longitude": 37.399134,
+                          "latitude": 55.833124
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Чертаново",
+                          "longitude": 37.627319,
+                          "latitude": 55.631026
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Депо",
+                          "longitude": 37.72838,
+                          "latitude": 55.67424
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Кунцево 2",
+                          "longitude": 37.392498,
+                          "latitude": 55.729727
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Тимирязевская",
+                          "longitude": 37.57722,
+                          "latitude": 55.817527
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Рижская (Ленинградское направление)",
+                          "longitude": 37.639214,
+                          "latitude": 55.797074
+                      },
+                      {
+                          "direction": "",
+                          "title": "Москва-Тов.",
+                          "longitude": 37.6334641501308,
+                          "latitude": 55.7979651030009
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Грачёвская (бывш. Ховрино)",
+                          "longitude": 37.509405,
+                          "latitude": 55.869736
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Ховрино",
+                          "longitude": 37.486467,
+                          "latitude": 55.879448
+                      },
+                      {
+                          "direction": "",
+                          "title": "Москва Яр Турист",
+                          "longitude": 37.65727420822767,
+                          "latitude": 55.77778761318937
+                      },
+                      {
+                          "direction": "",
+                          "title": "Москва окт тур",
+                          "longitude": 37.654526354331075,
+                          "latitude": 55.777252991297246
+                      },
+                      {
+                          "direction": "",
+                          "title": "Москва Кур Турист",
+                          "longitude": 37.66198364167971,
+                          "latitude": 55.756736237457574
+                      },
+                      {
+                          "direction": "",
+                          "title": "Москва Казан Турист",
+                          "longitude": 37.65811078914875,
+                          "latitude": 55.77435848022523
+                      },
+                      {
+                          "direction": "",
+                          "title": "Лихоборы (техническая)",
+                          "longitude": 37.5398217152518,
+                          "latitude": 55.84487557528054
+                      },
+                      {
+                          "direction": "",
+                          "title": "Лефортово",
+                          "longitude": 37.746357925074165,
+                          "latitude": 55.76333627121034
+                      },
+                      {
+                          "direction": "",
+                          "title": "Перово",
+                          "longitude": 37.76374626159667,
+                          "latitude": 55.736325795078514
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Новопеределкино",
+                          "longitude": 37.383677,
+                          "latitude": 55.63765
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Андроновка (МЦК)",
+                          "longitude": 37.736886,
+                          "latitude": 55.746401
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Кутузовская, МЦК",
+                          "longitude": 37.534024,
+                          "latitude": 55.739519
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Владыкино",
+                          "longitude": 37.590517,
+                          "latitude": 55.847402
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Измайлово",
+                          "longitude": 37.743026,
+                          "latitude": 55.788408
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Соколиная Гора",
+                          "longitude": 37.745356,
+                          "latitude": 55.769956
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Шоссе Энтузиастов",
+                          "longitude": 37.746292,
+                          "latitude": 55.758855
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Нижегородская (МЦК)",
+                          "longitude": 37.72806,
+                          "latitude": 55.732031
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Новохохловская, МЦК",
+                          "longitude": 37.717854,
+                          "latitude": 55.724504
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Угрешская",
+                          "longitude": 37.695526,
+                          "latitude": 55.717934
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Дубровка",
+                          "longitude": 37.67663,
+                          "latitude": 55.712309
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Автозаводская",
+                          "longitude": 37.661706,
+                          "latitude": 55.705498
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "ЗИЛ, МЦК",
+                          "longitude": 37.649119,
+                          "latitude": 55.698654
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Верхние Котлы, МЦК",
+                          "longitude": 37.618187,
+                          "latitude": 55.689955
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Крымская",
+                          "longitude": 37.605086,
+                          "latitude": 55.690006
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Площадь Гагарина",
+                          "longitude": 37.585977,
+                          "latitude": 55.70709
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Лужники",
+                          "longitude": 37.560263,
+                          "latitude": 55.720884
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Деловой центр",
+                          "longitude": 37.531923,
+                          "latitude": 55.74776
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Шелепиха",
+                          "longitude": 37.525939,
+                          "latitude": 55.756734
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Хорошёво",
+                          "longitude": 37.507445,
+                          "latitude": 55.776935
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Зорге",
+                          "longitude": 37.50425,
+                          "latitude": 55.789138
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Панфиловская",
+                          "longitude": 37.499724,
+                          "latitude": 55.798025
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Стрешнево (МЦК)",
+                          "longitude": 37.487485,
+                          "latitude": 55.81258
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Балтийская",
+                          "longitude": 37.49468,
+                          "latitude": 55.825135
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Коптево",
+                          "longitude": 37.521252,
+                          "latitude": 55.840367
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Лихоборы (МЦК)",
+                          "longitude": 37.553253,
+                          "latitude": 55.847689
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Окружная, МЦК",
+                          "longitude": 37.572549,
+                          "latitude": 55.84865
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Ботанический сад",
+                          "longitude": 37.639824,
+                          "latitude": 55.845493
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Ростокино (МЦК)",
+                          "longitude": 37.668489,
+                          "latitude": 55.839275
+                      },
+                      {
+                          "direction": "МЦК: Московское центральное кольцо",
+                          "title": "Бульвар Рокоссовского",
+                          "longitude": 37.73848,
+                          "latitude": 55.816441
+                      },
+                      {
+                          "direction": "Московский монорельс",
+                          "title": "Улица Сергея Эйзенштейна",
+                          "longitude": 37.644978,
+                          "latitude": 55.829305
+                      },
+                      {
+                          "direction": "Московский монорельс",
+                          "title": "Выставочный центр",
+                          "longitude": 37.638491,
+                          "latitude": 55.824093
+                      },
+                      {
+                          "direction": "Московский монорельс",
+                          "title": "Улица Академика Королёва",
+                          "longitude": 37.62716,
+                          "latitude": 55.821829
+                      },
+                      {
+                          "direction": "Московский монорельс",
+                          "title": "Телецентр",
+                          "longitude": 37.608946,
+                          "latitude": 55.82181
+                      },
+                      {
+                          "direction": "Московский монорельс",
+                          "title": "Улица Милашенкова",
+                          "longitude": 37.591209,
+                          "latitude": 55.821873
+                      },
+                      {
+                          "direction": "Московский монорельс",
+                          "title": "Тимирязевская, монорельс",
+                          "longitude": 37.578867,
+                          "latitude": 55.81904
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Новохохловская",
+                          "longitude": 37.71275,
+                          "latitude": 55.725173
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Верхние Котлы",
+                          "longitude": 37.6171913730163,
+                          "latitude": 55.6896100291869
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Волоколамская",
+                          "longitude": 37.383247,
+                          "latitude": 55.832195
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Славянский Бульвар",
+                          "longitude": 37.47243,
+                          "latitude": 55.730359
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Щукинская",
+                          "longitude": 37.46031568947114,
+                          "latitude": 55.81125024043574
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Аминьевская",
+                          "longitude": 37.46945534796064,
+                          "latitude": 55.69786024282298
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Минская",
+                          "longitude": 37.499143660068505,
+                          "latitude": 55.72317586391199
+                      },
+                      {
+                          "direction": "",
+                          "title": "Москва Вокзал Восточный Туристический",
+                          "longitude": 37.74599025359856,
+                          "latitude": 55.80322020375749
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Печатники",
+                          "longitude": 37.73212062369482,
+                          "latitude": 55.69302082097253
+                      },
+                      {
+                          "direction": "",
+                          "title": "Ростокино",
+                          "longitude": 37.65693509063086,
+                          "latitude": 55.842726073968926
+                      },
+                      {
+                          "direction": "",
+                          "title": "Пресня",
+                          "longitude": 37.5167968661581,
+                          "latitude": 55.7665725195166
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Ильинский Погост",
+                          "longitude": 38.917013,
+                          "latitude": 55.478448
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Давыдово",
+                          "longitude": 38.878311,
+                          "latitude": 55.612546
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Петелино",
+                          "longitude": 36.822963,
+                          "latitude": 55.60256
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Электрогорск",
+                          "longitude": 38.787077,
+                          "latitude": 55.883575
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Гривно",
+                          "longitude": 37.526832,
+                          "latitude": 55.356993
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Куровская",
+                          "longitude": 38.922985,
+                          "latitude": 55.573101
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Салтыковская",
+                          "longitude": 37.922255,
+                          "latitude": 55.757787
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Химки",
+                          "longitude": 37.451679,
+                          "latitude": 55.894383
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Левобережная",
+                          "longitude": 37.468158,
+                          "latitude": 55.887314
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Ступино",
+                          "longitude": 38.079129,
+                          "latitude": 54.908862
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Талдом",
+                          "longitude": 37.525936,
+                          "latitude": 56.722473
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Серпухов",
+                          "longitude": 37.4516,
+                          "latitude": 54.935381
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Подсолнечная",
+                          "longitude": 36.971658,
+                          "latitude": 56.184183
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Сергиев Посад",
+                          "longitude": 38.136844,
+                          "latitude": 56.302001
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "39 км (40 км)",
+                          "longitude": 38.125174,
+                          "latitude": 56.343851
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Серебряные Пруды",
+                          "longitude": 38.721773,
+                          "latitude": 54.459357
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Фабричная",
+                          "longitude": 38.206767,
+                          "latitude": 55.572946
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Ипподром",
+                          "longitude": 38.239144,
+                          "latitude": 55.560662
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Раменское",
+                          "longitude": 38.226013,
+                          "latitude": 55.565334
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Наугольный",
+                          "longitude": 38.178201,
+                          "latitude": 56.359759
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Дулёво",
+                          "longitude": 38.94643,
+                          "latitude": 55.710959
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Авсюнино",
+                          "longitude": 39.111411,
+                          "latitude": 55.559837
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Ратмирово",
+                          "longitude": 38.6741531693114,
+                          "latitude": 55.2728979979569
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Рудниковская",
+                          "longitude": 38.88869,
+                          "latitude": 55.33871
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Бородино",
+                          "longitude": 35.862581,
+                          "latitude": 55.49558
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Дровнино",
+                          "longitude": 35.378686,
+                          "latitude": 55.512973
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Хлебниково",
+                          "longitude": 37.504552,
+                          "latitude": 55.970963
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Трудовая",
+                          "longitude": 37.514916,
+                          "latitude": 56.120659
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Поварово-3",
+                          "longitude": 37.0562,
+                          "latitude": 56.046454
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Поварово-2",
+                          "longitude": 37.114395,
+                          "latitude": 56.073911
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Поварово-1",
+                          "longitude": 37.059434,
+                          "latitude": 56.078996
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Щербинка",
+                          "longitude": 37.562217,
+                          "latitude": 55.510494
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Кубинка 1",
+                          "longitude": 36.690585,
+                          "latitude": 55.578999
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Кубинка 2",
+                          "longitude": 36.727291,
+                          "latitude": 55.601503
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Технический центр",
+                          "longitude": 36.7123227459,
+                          "latitude": 55.5629330512
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Реутов",
+                          "longitude": 37.85517,
+                          "latitude": 55.751464
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Пушкино",
+                          "longitude": 37.839165,
+                          "latitude": 56.012485
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Орехово-Зуево",
+                          "longitude": 38.976089,
+                          "latitude": 55.795849
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Крутое",
+                          "longitude": 39.005248,
+                          "latitude": 55.811137
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Озёры",
+                          "longitude": 38.567371,
+                          "latitude": 54.860961
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Павловский Посад",
+                          "longitude": 38.672539,
+                          "latitude": 55.775813
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Нара",
+                          "longitude": 36.751257,
+                          "latitude": 55.383339
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Мытищи",
+                          "longitude": 37.761228,
+                          "latitude": 55.914823
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Перловская",
+                          "longitude": 37.726241,
+                          "latitude": 55.890206
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Тайнинская",
+                          "longitude": 37.742297,
+                          "latitude": 55.90085
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Строитель",
+                          "longitude": 37.783228,
+                          "latitude": 55.933081
+                      },
+                      {
+                          "direction": "МЦД-1",
+                          "title": "Одинцово",
+                          "longitude": 37.282248,
+                          "latitude": 55.672347
+                      },
+                      {
+                          "direction": "МЦД-1",
+                          "title": "Баковка",
+                          "longitude": 37.314746,
+                          "latitude": 55.682625
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Отрадное",
+                          "longitude": 37.250788,
+                          "latitude": 55.667763
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Захарово",
+                          "longitude": 38.467857,
+                          "latitude": 55.872965
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Ногинск",
+                          "longitude": 38.44408,
+                          "latitude": 55.850897
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Осеевская",
+                          "longitude": 38.1351340343929,
+                          "latitude": 55.8613459660322
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "178 км",
+                          "longitude": 39.0026052037048,
+                          "latitude": 55.8859841621872
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Румянцево",
+                          "longitude": 36.545077,
+                          "latitude": 55.97203
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Новопетровская",
+                          "longitude": 36.472159,
+                          "latitude": 55.996513
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Манихино 1",
+                          "longitude": 36.929432,
+                          "latitude": 55.890526
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Отдых",
+                          "longitude": 38.136467,
+                          "latitude": 55.60174
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Юность (ММДЖД)",
+                          "longitude": 38.1370438135,
+                          "latitude": 55.6007691898
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Школьная (ММДЖД)",
+                          "longitude": 38.1419682712,
+                          "latitude": 55.5866132296
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Малаховка",
+                          "longitude": 38.008008,
+                          "latitude": 55.645426
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Топканово",
+                          "longitude": 38.475541,
+                          "latitude": 54.706229
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Пурлово",
+                          "longitude": 38.383106,
+                          "latitude": 54.731846
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Мельдино",
+                          "longitude": 37.260747,
+                          "latitude": 56.658794
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Тучково",
+                          "longitude": 36.468305,
+                          "latitude": 55.597353
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Дедовск",
+                          "longitude": 37.12567,
+                          "latitude": 55.866576
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Железнодорожная",
+                          "longitude": 38.00832,
+                          "latitude": 55.752306
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Кучино",
+                          "longitude": 37.955105,
+                          "latitude": 55.752105
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Ольгино",
+                          "longitude": 37.98229315205391,
+                          "latitude": 55.75180612856752
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Ивантеевка",
+                          "longitude": 37.939306,
+                          "latitude": 55.964816
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Ивантеевка-2",
+                          "longitude": 37.908189,
+                          "latitude": 55.96172
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Посёлок Киевский",
+                          "longitude": 36.864647,
+                          "latitude": 55.425789
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Крёкшино",
+                          "longitude": 37.109677,
+                          "latitude": 55.577815
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Михнево",
+                          "longitude": 37.960756,
+                          "latitude": 55.120725
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Пески",
+                          "longitude": 38.77183,
+                          "latitude": 55.21493
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Донино",
+                          "longitude": 38.276137,
+                          "latitude": 55.635782
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Кривандино",
+                          "longitude": 39.687143,
+                          "latitude": 55.559376
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Войново",
+                          "longitude": 39.064409,
+                          "latitude": 55.843153
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Чкаловская",
+                          "longitude": 38.062955,
+                          "latitude": 55.897214
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Подосинки",
+                          "longitude": 38.823362,
+                          "latitude": 55.572035
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Кабаново",
+                          "longitude": 38.931512,
+                          "latitude": 55.761288
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Чисмена",
+                          "longitude": 36.215498,
+                          "latitude": 56.018518
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Жилино",
+                          "longitude": 37.047744,
+                          "latitude": 55.994766
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Подлипки",
+                          "longitude": 39.172767,
+                          "latitude": 54.957143
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Чёрная",
+                          "longitude": 38.918146,
+                          "latitude": 55.026454
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Фруктовая",
+                          "longitude": 39.25739,
+                          "latitude": 54.91655
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Коренёво",
+                          "longitude": 38.000474,
+                          "latitude": 55.668106
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Снегири",
+                          "longitude": 37.037936,
+                          "latitude": 55.880175
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Загорянская",
+                          "longitude": 37.916167,
+                          "latitude": 55.926477
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Монино",
+                          "longitude": 38.197574,
+                          "latitude": 55.843636
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Лопатино",
+                          "longitude": 38.7341698624267,
+                          "latitude": 55.3547931991502
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Белоозёрская",
+                          "longitude": 38.449656,
+                          "latitude": 55.46163
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Рассудово",
+                          "longitude": 36.914474,
+                          "latitude": 55.478636
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Софрино",
+                          "longitude": 37.930074,
+                          "latitude": 56.135852
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Посёлок Дальний",
+                          "longitude": 37.958123,
+                          "latitude": 56.141605
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Правда",
+                          "longitude": 37.867721,
+                          "latitude": 56.064797
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Нахабино",
+                          "longitude": 37.184734,
+                          "latitude": 55.841735
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Бармино",
+                          "longitude": 39.6496018767,
+                          "latitude": 55.26377953
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Бекасово-1",
+                          "longitude": 36.840156,
+                          "latitude": 55.429644
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Бахчиванджи",
+                          "longitude": 38.083525,
+                          "latitude": 55.882655
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Ромашково",
+                          "longitude": 37.347472,
+                          "latitude": 55.734192
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Перхушково",
+                          "longitude": 37.183471,
+                          "latitude": 55.661235
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Сычёво",
+                          "longitude": 38.725771,
+                          "latitude": 55.064405
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Чепелёво",
+                          "longitude": 37.486876,
+                          "latitude": 55.181334
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "Шаховская",
+                          "longitude": 35.511421,
+                          "latitude": 56.029847
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Чехов",
+                          "longitude": 37.490053,
+                          "latitude": 55.149144
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Дорохово",
+                          "longitude": 36.373539,
+                          "latitude": 55.546478
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Запрудня",
+                          "longitude": 37.393377,
+                          "latitude": 56.559717
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Кресты",
+                          "longitude": 37.103607,
+                          "latitude": 55.275964
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Львовская",
+                          "longitude": 37.515127,
+                          "latitude": 55.311932
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Пионерская",
+                          "longitude": 37.211944,
+                          "latitude": 55.665204
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Томилино",
+                          "longitude": 37.954625,
+                          "latitude": 55.655269
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Даниловская",
+                          "longitude": 38.5822,
+                          "latitude": 54.946504
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Турист",
+                          "longitude": 37.511727,
+                          "latitude": 56.243423
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Красноармейск",
+                          "longitude": 38.136144,
+                          "latitude": 56.10874
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Узуново",
+                          "longitude": 38.620005,
+                          "latitude": 54.54507
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Икша",
+                          "longitude": 37.509176,
+                          "latitude": 56.171699
+                      },
+                      {
+                          "direction": "Ожерельевское",
+                          "title": "Ожерелье",
+                          "longitude": 38.272684,
+                          "latitude": 54.801168
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Шевлягино",
+                          "longitude": 38.61176,
+                          "latitude": 55.599363
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "Муриково",
+                          "longitude": 35.405474,
+                          "latitude": 56.031741
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Лесной Городок",
+                          "longitude": 37.217782,
+                          "latitude": 55.630306
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Малые Вязёмы",
+                          "longitude": 37.029323,
+                          "latitude": 55.626372
+                      },
+                      {
+                          "direction": "МЦД-1",
+                          "title": "Немчиновка",
+                          "longitude": 37.375559,
+                          "latitude": 55.71599
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Воймежный",
+                          "longitude": 39.860857,
+                          "latitude": 55.565201
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Балашиха",
+                          "longitude": 37.949825,
+                          "latitude": 55.810113
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Апрелевка",
+                          "longitude": 37.066874,
+                          "latitude": 55.550152
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Быково",
+                          "longitude": 38.071317,
+                          "latitude": 55.626522
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Расторгуево",
+                          "longitude": 37.6857744232788,
+                          "latitude": 55.5483340099445
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Фрязино-Пасс.",
+                          "longitude": 38.04442,
+                          "latitude": 55.963252
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Фрязино-Тов.",
+                          "longitude": 38.030501,
+                          "latitude": 55.963364
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Храпуново",
+                          "longitude": 38.347314,
+                          "latitude": 55.720981
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Черусти",
+                          "longitude": 40.0027,
+                          "latitude": 55.542868
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Опалиха",
+                          "longitude": 37.247393,
+                          "latitude": 55.823179
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "33 км",
+                          "longitude": 38.15304,
+                          "latitude": 55.744276
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Фирсановская",
+                          "longitude": 37.25082,
+                          "latitude": 55.960369
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Подрезково",
+                          "longitude": 37.334661,
+                          "latitude": 55.941752
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Орудьево",
+                          "longitude": 37.51595,
+                          "latitude": 56.443505
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Шатурторф",
+                          "longitude": 39.408138,
+                          "latitude": 55.572846
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Уваровка",
+                          "longitude": 35.609701,
+                          "latitude": 55.532473
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Шаликово",
+                          "longitude": 36.22133,
+                          "latitude": 55.511685
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Подлипки-Дачные",
+                          "longitude": 37.816301,
+                          "latitude": 55.925465
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Болшево",
+                          "longitude": 37.861022,
+                          "latitude": 55.926201
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Кокошкино",
+                          "longitude": 37.171324567488405,
+                          "latitude": 55.59982775971624
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Хорошово",
+                          "longitude": 38.787123,
+                          "latitude": 55.143601
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Акулово",
+                          "longitude": 36.689155,
+                          "latitude": 55.502475
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Золотово",
+                          "longitude": 38.525686,
+                          "latitude": 55.435268
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Виноградово",
+                          "longitude": 38.560429,
+                          "latitude": 55.426843
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Фаустово",
+                          "longitude": 38.495849,
+                          "latitude": 55.445011
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Конобеево",
+                          "longitude": 38.656276,
+                          "latitude": 55.405309
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Богатищево",
+                          "longitude": 38.529443,
+                          "latitude": 54.678586
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Родники",
+                          "longitude": 38.068118,
+                          "latitude": 55.655764
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Семхоз",
+                          "longitude": 38.077886,
+                          "latitude": 56.283323
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "Бухолово",
+                          "longitude": 35.642986,
+                          "latitude": 56.009609
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Усово",
+                          "longitude": 37.211403,
+                          "latitude": 55.729267
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Чапаевка",
+                          "longitude": 36.635107,
+                          "latitude": 55.579055
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Хлюпино",
+                          "longitude": 36.962522,
+                          "latitude": 55.670468
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Ухтомская",
+                          "longitude": 37.864222,
+                          "latitude": 55.698638
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Люберцы 1",
+                          "longitude": 37.896709,
+                          "latitude": 55.682553
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Люберцы 2",
+                          "longitude": 37.932701,
+                          "latitude": 55.672691
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Панки",
+                          "longitude": 37.923332,
+                          "latitude": 55.668674
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Можайск",
+                          "longitude": 36.032447,
+                          "latitude": 55.494201
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Голутвин",
+                          "longitude": 38.805724,
+                          "latitude": 55.085962
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Коломна",
+                          "longitude": 38.781036,
+                          "latitude": 55.099632
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Бачманово",
+                          "longitude": 38.798997,
+                          "latitude": 55.074245
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Красногорская",
+                          "longitude": 37.303141,
+                          "latitude": 55.814745
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Павшино",
+                          "longitude": 37.339751,
+                          "latitude": 55.814972
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Пенягино",
+                          "longitude": 37.360769,
+                          "latitude": 55.821892
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Луховицы",
+                          "longitude": 39.041892,
+                          "latitude": 54.982567
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Новоиерусалимская",
+                          "longitude": 36.822573,
+                          "latitude": 55.911581
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Истра",
+                          "longitude": 36.856383,
+                          "latitude": 55.903739
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Кашира",
+                          "longitude": 38.189332,
+                          "latitude": 54.857777
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Клин",
+                          "longitude": 36.709951,
+                          "latitude": 56.332636
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Шматово",
+                          "longitude": 38.053286,
+                          "latitude": 55.004422
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Колычёво (9 км)",
+                          "longitude": 38.092102,
+                          "latitude": 55.027742
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Кудрявцево",
+                          "longitude": 38.60597711639371,
+                          "latitude": 54.98678966895587
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Фрязево",
+                          "longitude": 38.46548,
+                          "latitude": 55.732365
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Жёлтиково",
+                          "longitude": 37.943941,
+                          "latitude": 56.298793
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Яхрома",
+                          "longitude": 37.501683,
+                          "latitude": 56.28652
+                      },
+                      {
+                          "direction": "",
+                          "title": "Парк Яхрома",
+                          "longitude": 37.476376814142085,
+                          "latitude": 56.275582505087876
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Шкинь",
+                          "longitude": 38.480791,
+                          "latitude": 55.177985
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Загорново",
+                          "longitude": 38.336152,
+                          "latitude": 55.515641
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Туголесье",
+                          "longitude": 39.798243,
+                          "latitude": 55.564732
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Полушкино",
+                          "longitude": 36.567781,
+                          "latitude": 55.585314
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Звенигород",
+                          "longitude": 36.88055,
+                          "latitude": 55.700584
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Дмитров",
+                          "longitude": 37.510175,
+                          "latitude": 56.337577
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Воскресенск",
+                          "longitude": 38.701744,
+                          "latitude": 55.312831
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Шиферная",
+                          "longitude": 38.736383,
+                          "latitude": 55.283202
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "88 км",
+                          "longitude": 38.685515,
+                          "latitude": 55.327285
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Москворецкая",
+                          "longitude": 38.744065,
+                          "latitude": 55.270239
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "Волоколамск",
+                          "longitude": 35.935707,
+                          "latitude": 55.993568
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Внуково",
+                          "longitude": 37.272524,
+                          "latitude": 55.649107
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Егорьевск",
+                          "longitude": 39.008757,
+                          "latitude": 55.390697
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Домодедово",
+                          "longitude": 37.773381,
+                          "latitude": 55.4399
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Селятино",
+                          "longitude": 36.967684,
+                          "latitude": 55.51677
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Молоди",
+                          "longitude": 37.504249,
+                          "latitude": 55.279894
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Зеленоградская",
+                          "longitude": 37.900195,
+                          "latitude": 56.094108
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Заветы Ильича",
+                          "longitude": 37.854396,
+                          "latitude": 56.040227
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Клязьма",
+                          "longitude": 37.819182,
+                          "latitude": 55.978651
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "52 км",
+                          "longitude": 38.35208,
+                          "latitude": 55.628157
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Взлётная",
+                          "longitude": 37.805706,
+                          "latitude": 55.394671
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Барыбино",
+                          "longitude": 37.896492,
+                          "latitude": 55.267838
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Белые Столбы",
+                          "longitude": 37.850786,
+                          "latitude": 55.333469
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Хотьково",
+                          "longitude": 37.99608,
+                          "latitude": 56.256726
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Голицыно",
+                          "longitude": 36.986861,
+                          "latitude": 55.615205
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Сходня",
+                          "longitude": 37.298511,
+                          "latitude": 55.949761
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Лобня",
+                          "longitude": 37.484582,
+                          "latitude": 56.013605
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Электроугли",
+                          "longitude": 38.202436,
+                          "latitude": 55.730043
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Дрезна",
+                          "longitude": 38.853853,
+                          "latitude": 55.748001
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Жаворонки",
+                          "longitude": 37.096971,
+                          "latitude": 55.641844
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Осёнка",
+                          "longitude": 38.52794,
+                          "latitude": 55.188081
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Дубосеково",
+                          "longitude": 36.038444,
+                          "latitude": 55.978124
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Силикатная",
+                          "longitude": 37.555455,
+                          "latitude": 55.470458
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "Благовещенское",
+                          "longitude": 35.784663,
+                          "latitude": 55.993838
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Толстопальцево",
+                          "longitude": 37.186711,
+                          "latitude": 55.607929
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Сушкинская",
+                          "longitude": 36.873555,
+                          "latitude": 55.611073
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Авангард",
+                          "longitude": 37.451217,
+                          "latitude": 54.960542
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Иванцево",
+                          "longitude": 37.548827,
+                          "latitude": 56.318863
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Чёрное",
+                          "longitude": 38.061148,
+                          "latitude": 55.753207
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "159 км",
+                          "longitude": 36.998725238098,
+                          "latitude": 55.9290523010902
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "43 км",
+                          "longitude": 38.291097,
+                          "latitude": 55.722226
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Вохна",
+                          "longitude": 38.629893,
+                          "latitude": 55.769397
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "81 км",
+                          "longitude": 38.228436,
+                          "latitude": 56.369811
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Дачное",
+                          "longitude": 37.066488,
+                          "latitude": 55.63594
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Мичуринец",
+                          "longitude": 37.316111,
+                          "latitude": 55.646206
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Театральная",
+                          "longitude": 36.448289,
+                          "latitude": 55.584831
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Назарьево",
+                          "longitude": 38.777686,
+                          "latitude": 55.755753
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Есино",
+                          "longitude": 38.378535,
+                          "latitude": 55.720313
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Партизанская",
+                          "longitude": 36.309372,
+                          "latitude": 55.537816
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Часцовская",
+                          "longitude": 36.786211,
+                          "latitude": 55.596204
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Садовая",
+                          "longitude": 36.402098,
+                          "latitude": 55.553652
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Санаторная",
+                          "longitude": 36.53434,
+                          "latitude": 55.590786
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "14 км",
+                          "longitude": 38.783522,
+                          "latitude": 55.864739
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Шереметьевская",
+                          "longitude": 37.498698,
+                          "latitude": 55.98389
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "165 км",
+                          "longitude": 36.9385182037048,
+                          "latitude": 55.8879011777918
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Манихино 2",
+                          "longitude": 36.962179,
+                          "latitude": 55.912097
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "214 км",
+                          "longitude": 36.665299,
+                          "latitude": 55.536066
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Ленская",
+                          "longitude": 38.700037,
+                          "latitude": 55.774365
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Фабрика 1 Мая",
+                          "longitude": 37.860993,
+                          "latitude": 55.946873
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Портновская",
+                          "longitude": 36.744212,
+                          "latitude": 55.588662
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Поваровка",
+                          "longitude": 37.077132,
+                          "latitude": 56.063584
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Радищево",
+                          "longitude": 37.102203,
+                          "latitude": 56.041789
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "133 км",
+                          "longitude": 35.829944,
+                          "latitude": 55.995765
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "149 км",
+                          "longitude": 35.588279,
+                          "latitude": 56.021276
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "211 км",
+                          "longitude": 36.67858,
+                          "latitude": 55.552143
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "141 км",
+                          "longitude": 35.708085,
+                          "latitude": 56.006194
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Миитовская",
+                          "longitude": 37.103404,
+                          "latitude": 55.874419
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Валентиновка",
+                          "longitude": 37.891918,
+                          "latitude": 55.924976
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Циолковская",
+                          "longitude": 38.103086,
+                          "latitude": 55.870252
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Коровино",
+                          "longitude": 38.598498,
+                          "latitude": 54.618138
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Кораблёвка",
+                          "longitude": 38.766907,
+                          "latitude": 54.396042
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Чеховская",
+                          "longitude": 36.797377,
+                          "latitude": 55.911668
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Совхоз",
+                          "longitude": 38.29457,
+                          "latitude": 55.540574
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Белопесоцкий",
+                          "longitude": 38.144324,
+                          "latitude": 54.869791
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Калистово",
+                          "longitude": 37.965758,
+                          "latitude": 56.190153
+                      },
+                      {
+                          "direction": "Ожерельевское",
+                          "title": "Пчеловодное",
+                          "longitude": 38.209713642852,
+                          "latitude": 54.7118207205864
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Тесна",
+                          "longitude": 38.243741,
+                          "latitude": 54.830368
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Стройка",
+                          "longitude": 37.862611,
+                          "latitude": 55.780303
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Привалово",
+                          "longitude": 37.938762,
+                          "latitude": 55.169083
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Радонеж",
+                          "longitude": 37.976801,
+                          "latitude": 56.214274
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Воронок",
+                          "longitude": 37.973943,
+                          "latitude": 55.919135
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "41 км",
+                          "longitude": 38.201705,
+                          "latitude": 55.637045
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Слёмы",
+                          "longitude": 39.396231,
+                          "latitude": 54.851515
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "142 км",
+                          "longitude": 37.07426,
+                          "latitude": 56.059523
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "328 км",
+                          "longitude": 38.025807,
+                          "latitude": 55.117261
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "309 км",
+                          "longitude": 37.794513,
+                          "latitude": 55.178706
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "146 км",
+                          "longitude": 38.5785,
+                          "latitude": 54.634103
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "32 км",
+                          "longitude": 38.943023,
+                          "latitude": 55.444433
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Клёмово",
+                          "longitude": 38.747305,
+                          "latitude": 54.539037
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Матрёнино",
+                          "longitude": 36.091403,
+                          "latitude": 56.005706
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Карасёво",
+                          "longitude": 38.614723,
+                          "latitude": 55.012303
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "162 км",
+                          "longitude": 38.646656,
+                          "latitude": 54.496126
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Фёдоровское",
+                          "longitude": 38.052657,
+                          "latitude": 56.139463
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Белый Раст",
+                          "longitude": 37.458871,
+                          "latitude": 56.125785
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Авиационная",
+                          "longitude": 37.835174257949255,
+                          "latitude": 55.42190388932364
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Ока",
+                          "longitude": 37.429431,
+                          "latitude": 54.885924
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Лысцовская",
+                          "longitude": 38.685615,
+                          "latitude": 55.070226
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "142 км",
+                          "longitude": 39.114615,
+                          "latitude": 54.973765
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Колонтаево",
+                          "longitude": 38.273636,
+                          "latitude": 55.779714
+                      },
+                      {
+                          "direction": "Курское",
+                          "title": "Весенняя",
+                          "longitude": 37.534511,
+                          "latitude": 55.385165
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Лесные Дары",
+                          "longitude": 38.434342,
+                          "latitude": 55.168101
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Мякинино",
+                          "longitude": 38.378975,
+                          "latitude": 55.129922
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Осаново",
+                          "longitude": 39.6593825519085,
+                          "latitude": 55.473582073607
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Шубатово",
+                          "longitude": 38.412111338623,
+                          "latitude": 55.148437999989
+                      },
+                      {
+                          "direction": "Ожерельевское",
+                          "title": "123 км",
+                          "longitude": 38.2583879483456,
+                          "latitude": 54.7528946991923
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Нерская",
+                          "longitude": 38.877017,
+                          "latitude": 55.553642
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Детково",
+                          "longitude": 37.519251,
+                          "latitude": 55.21838
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Дудино",
+                          "longitude": 38.664678,
+                          "latitude": 54.477451
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "109 км",
+                          "longitude": 37.499606,
+                          "latitude": 56.138701
+                      },
+                      {
+                          "direction": "",
+                          "title": "Николаевка",
+                          "longitude": 37.640308,
+                          "latitude": 55.79443
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Радуга",
+                          "longitude": 38.400604,
+                          "latitude": 55.482972
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "73 км",
+                          "longitude": 38.69141,
+                          "latitude": 55.590093
+                      },
+                      {
+                          "direction": "Ожерельевское",
+                          "title": "126 км",
+                          "longitude": 38.2246965238034,
+                          "latitude": 54.7464755650498
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "173 км",
+                          "longitude": 39.00332,
+                          "latitude": 55.93303
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Латыгоры",
+                          "longitude": 39.2304131865082,
+                          "latitude": 54.7086619556015
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Семёновский",
+                          "longitude": 38.65668,
+                          "latitude": 55.061887
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Новогромово",
+                          "longitude": 37.232522,
+                          "latitude": 55.264094
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "144 км",
+                          "longitude": 35.536576,
+                          "latitude": 55.529189
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "190 км",
+                          "longitude": 36.795413,
+                          "latitude": 55.72085
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Бухарово",
+                          "longitude": 37.294406,
+                          "latitude": 56.085703
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Руново",
+                          "longitude": 38.8878950849175,
+                          "latitude": 55.6448021909113
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Колочь",
+                          "longitude": 35.735015,
+                          "latitude": 55.499371
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Есенинская",
+                          "longitude": 38.183714,
+                          "latitude": 55.582356
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Путилово",
+                          "longitude": 38.095399,
+                          "latitude": 56.115469
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Гагаринская",
+                          "longitude": 38.036214,
+                          "latitude": 55.906317
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Детская",
+                          "longitude": 37.961832,
+                          "latitude": 55.968163
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Калинина",
+                          "longitude": 37.7077852169185,
+                          "latitude": 55.5168196539313
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Абрамцево",
+                          "longitude": 37.984723,
+                          "latitude": 56.23389
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Захарово",
+                          "longitude": 36.976255,
+                          "latitude": 55.646959
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "92 км",
+                          "longitude": 37.461589,
+                          "latitude": 54.994893
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "109 км",
+                          "longitude": 36.065503,
+                          "latitude": 55.49414
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Горенки",
+                          "longitude": 37.918981,
+                          "latitude": 55.805704
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Раздоры",
+                          "longitude": 37.29523,
+                          "latitude": 55.739239
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Имени Барсученко",
+                          "longitude": 37.497006,
+                          "latitude": 56.417255
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "63 км",
+                          "longitude": 38.422798,
+                          "latitude": 55.473945
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Зелёный Бор",
+                          "longitude": 37.87662,
+                          "latitude": 55.963068
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Победа",
+                          "longitude": 37.092758,
+                          "latitude": 55.566206
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Космос",
+                          "longitude": 37.881259,
+                          "latitude": 55.428792
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "73 км",
+                          "longitude": 36.644704,
+                          "latitude": 55.939649
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Зосимова Пустынь",
+                          "longitude": 36.814128,
+                          "latitude": 55.415313
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Игнатьево",
+                          "longitude": 38.503995,
+                          "latitude": 55.603763
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Луч",
+                          "longitude": 37.494811,
+                          "latitude": 55.092355
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Малиновка",
+                          "longitude": 37.155544,
+                          "latitude": 55.855037
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Некрасовская",
+                          "longitude": 37.495547,
+                          "latitude": 56.073944
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "49 км",
+                          "longitude": 38.314939,
+                          "latitude": 55.628617
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Троицкая",
+                          "longitude": 36.900441,
+                          "latitude": 55.886117
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Овражки",
+                          "longitude": 38.033729,
+                          "latitude": 55.664757
+                      },
+                      {
+                          "direction": "",
+                          "title": "Пост-Алексеевский",
+                          "longitude": 37.641282957,
+                          "latitude": 55.7917119624
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Щурово",
+                          "longitude": 38.851461,
+                          "latitude": 55.064695
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Анциферово",
+                          "longitude": 38.755402,
+                          "latitude": 55.581464
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Устиновка",
+                          "longitude": 36.453652,
+                          "latitude": 55.988454
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Лесодолгоруково",
+                          "longitude": 36.337024,
+                          "latitude": 56.01089
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Курсаковская",
+                          "longitude": 36.569538,
+                          "latitude": 55.962534
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Ядрошино",
+                          "longitude": 36.612853,
+                          "latitude": 55.947911
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Башкино",
+                          "longitude": 36.672554,
+                          "latitude": 55.317497
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Запутная",
+                          "longitude": 39.303307,
+                          "latitude": 55.572475
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Латышская",
+                          "longitude": 36.705036,
+                          "latitude": 55.359304
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Ожигово",
+                          "longitude": 36.886645,
+                          "latitude": 55.457645
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Повадино",
+                          "longitude": 37.742163,
+                          "latitude": 55.178894
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Конев Бор",
+                          "longitude": 38.77892,
+                          "latitude": 55.190436
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "95 км",
+                          "longitude": 39.033877,
+                          "latitude": 55.565544
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "43 км",
+                          "longitude": 37.918269,
+                          "latitude": 56.117675
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Каналстрой",
+                          "longitude": 37.516134,
+                          "latitude": 56.382965
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "29 км",
+                          "longitude": 39.644586648792,
+                          "latitude": 55.3321254943081
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Скоротово",
+                          "longitude": 36.913133,
+                          "latitude": 55.678641
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "76 км",
+                          "longitude": 38.201921,
+                          "latitude": 56.344047
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "183 км",
+                          "longitude": 36.806011,
+                          "latitude": 55.772339
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Соревнование",
+                          "longitude": 37.426621,
+                          "latitude": 56.528995
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Водники",
+                          "longitude": 37.511376,
+                          "latitude": 55.953387
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Кукаринская",
+                          "longitude": 36.125119,
+                          "latitude": 55.499119
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "83 км",
+                          "longitude": 38.269629,
+                          "latitude": 56.385255
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Мачихино",
+                          "longitude": 36.938752,
+                          "latitude": 55.341165
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "6 км",
+                          "longitude": 38.75589,
+                          "latitude": 55.070661
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Ильинская",
+                          "longitude": 38.100727,
+                          "latitude": 55.616281
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "47 км",
+                          "longitude": 39.620380383,
+                          "latitude": 55.1891310169
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Чернецкое",
+                          "longitude": 37.28093,
+                          "latitude": 55.254459
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "113 км",
+                          "longitude": 38.785237,
+                          "latitude": 55.116782
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Тарасовская",
+                          "longitude": 37.808858,
+                          "latitude": 55.962137
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "30 км",
+                          "longitude": 38.556628,
+                          "latitude": 54.924459
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Цемгигант",
+                          "longitude": 38.755428,
+                          "latitude": 55.251003
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "38 км",
+                          "longitude": 38.539853,
+                          "latitude": 54.861786
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "52 км",
+                          "longitude": 37.870503,
+                          "latitude": 55.31137
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "50 км",
+                          "longitude": 36.968721,
+                          "latitude": 55.896303
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Ленинская",
+                          "longitude": 37.730899,
+                          "latitude": 55.489087
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Бубяково",
+                          "longitude": 38.071918,
+                          "latitude": 56.343349
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "90 км",
+                          "longitude": 38.374221,
+                          "latitude": 56.395941
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Сазоново",
+                          "longitude": 39.6631108224,
+                          "latitude": 55.2244262496
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Пожога",
+                          "longitude": 39.6732420288026,
+                          "latitude": 55.4002409849157
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Соколовская",
+                          "longitude": 37.945696,
+                          "latitude": 55.927211
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Ситенка",
+                          "longitude": 38.052189,
+                          "latitude": 54.945136
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Ястребки",
+                          "longitude": 36.7602912037048,
+                          "latitude": 55.6732189999753
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Лукино",
+                          "longitude": 36.8746143094773,
+                          "latitude": 55.8541718764136
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Лесная (64 км)",
+                          "longitude": 38.363475,
+                          "latitude": 55.754468
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Дюдьково",
+                          "longitude": 36.8051568306885,
+                          "latitude": 55.7392784224325
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "128 км",
+                          "longitude": 37.260797,
+                          "latitude": 56.081124
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Кашино",
+                          "longitude": 38.23443,
+                          "latitude": 55.812771
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Пожитково",
+                          "longitude": 36.803606,
+                          "latitude": 55.440896
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Депо",
+                          "longitude": 37.054751,
+                          "latitude": 56.032329
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "155 км",
+                          "longitude": 37.010726,
+                          "latitude": 55.961026
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "177 км",
+                          "longitude": 36.8240457460325,
+                          "latitude": 55.813891461881
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Бекасово-центральное",
+                          "longitude": 36.884722,
+                          "latitude": 55.404947
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "192 км",
+                          "longitude": 36.784914576721,
+                          "latitude": 55.6987171181942
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "199 км",
+                          "longitude": 36.7573547460326,
+                          "latitude": 55.6438818646733
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "221 км",
+                          "longitude": 36.701381,
+                          "latitude": 55.465801
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "240 км",
+                          "longitude": 36.900471,
+                          "latitude": 55.388662
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "241 км",
+                          "longitude": 36.909871,
+                          "latitude": 55.379007
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "252 км",
+                          "longitude": 37.010036,
+                          "latitude": 55.306471
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "274 км",
+                          "longitude": 37.327358,
+                          "latitude": 55.247042
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Вяткино",
+                          "longitude": 37.384607,
+                          "latitude": 55.25766
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "283 км",
+                          "longitude": 37.483025,
+                          "latitude": 55.258825
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "332 км",
+                          "longitude": 38.095295,
+                          "latitude": 55.116182
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "341 км",
+                          "longitude": 38.213261,
+                          "latitude": 55.108759
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "120 км",
+                          "longitude": 37.3795166984859,
+                          "latitude": 56.0983902586972
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "74 км",
+                          "longitude": 37.661822,
+                          "latitude": 56.310449
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "68 км",
+                          "longitude": 37.730706,
+                          "latitude": 56.313777
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "62 км",
+                          "longitude": 37.8223890688471,
+                          "latitude": 56.2935344358582
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "47 км",
+                          "longitude": 38.034055,
+                          "latitude": 56.324284
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "298 км",
+                          "longitude": 37.628884,
+                          "latitude": 55.171168
+                      },
+                      {
+                          "direction": "",
+                          "title": "211 км",
+                          "longitude": 36.6712151745368,
+                          "latitude": 55.5625712460467
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "119 км",
+                          "longitude": 37.2279,
+                          "latitude": 56.67796
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "90 км",
+                          "longitude": 38.951195,
+                          "latitude": 55.571334
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Холщёвики",
+                          "longitude": 36.70161,
+                          "latitude": 55.926431
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Здравница",
+                          "longitude": 37.151373,
+                          "latitude": 55.650225
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Григорово",
+                          "longitude": 38.389025,
+                          "latitude": 55.625489
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "312 км",
+                          "longitude": 37.840464,
+                          "latitude": 55.172574
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Челюскинская",
+                          "longitude": 37.799772,
+                          "latitude": 55.94778
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Поточино",
+                          "longitude": 39.0224042870329,
+                          "latitude": 55.8506848637583
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "91 км",
+                          "longitude": 36.41089,
+                          "latitude": 55.991344
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "94 км",
+                          "longitude": 37.568111,
+                          "latitude": 56.580482
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "116 км",
+                          "longitude": 37.422385,
+                          "latitude": 56.125026
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Драчёво",
+                          "longitude": 37.626799,
+                          "latitude": 56.301649
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Лютик",
+                          "longitude": 38.3262536455077,
+                          "latitude": 55.1021980672035
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "107 км",
+                          "longitude": 37.413849,
+                          "latitude": 54.871233
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "66 км",
+                          "longitude": 37.484627,
+                          "latitude": 55.222348
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Дачная",
+                          "longitude": 37.036588,
+                          "latitude": 55.540584
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Депо",
+                          "longitude": 37.485718,
+                          "latitude": 56.026965
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Новоподрезково",
+                          "longitude": 37.352115,
+                          "latitude": 55.936524
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Стреглово",
+                          "longitude": 36.737605,
+                          "latitude": 56.298325
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Молжаниново (бывш. Планерная)",
+                          "longitude": 37.381011,
+                          "latitude": 55.924268
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Покровка",
+                          "longitude": 36.829166,
+                          "latitude": 56.237691
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Сенеж",
+                          "longitude": 36.934242,
+                          "latitude": 56.20674
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Головково",
+                          "longitude": 36.884242,
+                          "latitude": 56.222648
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Фроловское",
+                          "longitude": 36.760828,
+                          "latitude": 56.269747
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Берёзки-Дачные",
+                          "longitude": 37.031641,
+                          "latitude": 56.110225
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Малино",
+                          "longitude": 37.210564,
+                          "latitude": 55.9693
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Струя",
+                          "longitude": 40.108288,
+                          "latitude": 55.524899
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Трофимово (84 км)",
+                          "longitude": 38.685676,
+                          "latitude": 55.366669
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "32 км",
+                          "longitude": 37.747902,
+                          "latitude": 55.472628
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "85 км",
+                          "longitude": 38.009122,
+                          "latitude": 55.027849
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "121 км",
+                          "longitude": 38.30404,
+                          "latitude": 54.774392
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "152 км",
+                          "longitude": 38.611435,
+                          "latitude": 54.583084
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "80 км",
+                          "longitude": 37.590193,
+                          "latitude": 56.295581
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Северный",
+                          "longitude": 38.975179,
+                          "latitude": 55.787853
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Депо",
+                          "longitude": 38.97565,
+                          "latitude": 55.773489
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Центральный",
+                          "longitude": 38.974918,
+                          "latitude": 55.764239
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "122 км",
+                          "longitude": 38.970502,
+                          "latitude": 55.743387
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "35 км",
+                          "longitude": 39.049815,
+                          "latitude": 54.643749
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "185 км",
+                          "longitude": 39.0397426455074,
+                          "latitude": 55.8312085770768
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "250 км",
+                          "longitude": 36.97798,
+                          "latitude": 55.319109
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "174 км",
+                          "longitude": 36.8498372037049,
+                          "latitude": 55.8412411476277
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "147 км",
+                          "longitude": 35.487242,
+                          "latitude": 55.520185
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "131 км",
+                          "longitude": 38.430204,
+                          "latitude": 54.719443
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "137 км",
+                          "longitude": 38.495615,
+                          "latitude": 54.692384
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "87 км",
+                          "longitude": 38.956321,
+                          "latitude": 55.773636
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "165 км",
+                          "longitude": 35.370123,
+                          "latitude": 56.050028
+                      },
+                      {
+                          "direction": "Волоколамское",
+                          "title": "167 км",
+                          "longitude": 35.324096,
+                          "latitude": 56.056035
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "12 км",
+                          "longitude": 38.7766635509261,
+                          "latitude": 54.5411681903373
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "7 км",
+                          "longitude": 38.697594,
+                          "latitude": 54.531344
+                      },
+                      {
+                          "direction": "",
+                          "title": "Москва Риж ст 3/4",
+                          "longitude": 37.6187222036,
+                          "latitude": 55.8009794571
+                      },
+                      {
+                          "direction": "",
+                          "title": "Подмосковная",
+                          "longitude": 37.525881319,
+                          "latitude": 55.815437967
+                      },
+                      {
+                          "direction": "",
+                          "title": "Орехово-Зуево МП",
+                          "longitude": 39.0031428374,
+                          "latitude": 55.8089833995
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "15 км",
+                          "longitude": 39.6716037020087,
+                          "latitude": 55.4533928674846
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Аэропорт (старая платф.)",
+                          "longitude": 37.265994,
+                          "latitude": 55.610036
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "294 км",
+                          "longitude": 37.571836,
+                          "latitude": 55.178717
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Парк «Патриот»",
+                          "longitude": 36.8319946536,
+                          "latitude": 55.5598869526
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Остафьево",
+                          "longitude": 37.555278,
+                          "latitude": 55.486286
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Санино",
+                          "longitude": 37.133933,
+                          "latitude": 55.583038
+                      },
+                      {
+                          "direction": "МЦД-2",
+                          "title": "Курьяново",
+                          "longitude": 37.701539,
+                          "latitude": 55.64986
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Кузяево",
+                          "longitude": 38.545196,
+                          "latitude": 55.603829
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Кратово",
+                          "longitude": 38.159769,
+                          "latitude": 55.592177
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Пионерская (ММДЖД)",
+                          "longitude": 38.1571993056,
+                          "latitude": 55.5884934926
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Гжель",
+                          "longitude": 38.447721,
+                          "latitude": 55.608827
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "55 км",
+                          "longitude": 38.413711,
+                          "latitude": 55.614718
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Вялки",
+                          "longitude": 38.111749,
+                          "latitude": 55.64799
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Макеево-московское",
+                          "longitude": 39.13692,
+                          "latitude": 54.66303
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Столбовая",
+                          "longitude": 37.493575,
+                          "latitude": 55.248793
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Сандарово",
+                          "longitude": 37.446718,
+                          "latitude": 55.257298
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Мамонтовская",
+                          "longitude": 37.828747,
+                          "latitude": 55.993984
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Рахманово",
+                          "longitude": 37.994725,
+                          "latitude": 56.143996
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Востряково",
+                          "longitude": 37.814702,
+                          "latitude": 55.382474
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Никольское",
+                          "longitude": 37.897508,
+                          "latitude": 55.759648
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Барвиха",
+                          "longitude": 37.262434,
+                          "latitude": 55.737435
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "18 км",
+                          "longitude": 38.622321,
+                          "latitude": 55.031148
+                      },
+                      {
+                          "direction": "Белорусское",
+                          "title": "Ильинское",
+                          "longitude": 37.239019,
+                          "latitude": 55.733321
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Непецино",
+                          "longitude": 38.578895,
+                          "latitude": 55.21268
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Бекасово-сортировочное",
+                          "longitude": 36.871508,
+                          "latitude": 55.418755
+                      },
+                      {
+                          "direction": "Киевское",
+                          "title": "Алабино",
+                          "longitude": 36.990676,
+                          "latitude": 55.528435
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Ковригино",
+                          "longitude": 38.719398,
+                          "latitude": 55.793739
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Казанское",
+                          "longitude": 38.573264,
+                          "latitude": 55.756657
+                      },
+                      {
+                          "direction": "Павелецкое",
+                          "title": "Шугарово",
+                          "longitude": 37.987815,
+                          "latitude": 55.063287
+                      },
+                      {
+                          "direction": "Московское",
+                          "title": "Шарапова Охота",
+                          "longitude": 37.477286,
+                          "latitude": 55.040361
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Сотниково",
+                          "longitude": 38.150962,
+                          "latitude": 55.058707
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Усады-окружные",
+                          "longitude": 37.896664,
+                          "latitude": 55.154709
+                      },
+                      {
+                          "direction": "Рижское",
+                          "title": "Аникеевка",
+                          "longitude": 37.21978,
+                          "latitude": 55.832049
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Костино",
+                          "longitude": 37.782261,
+                          "latitude": 56.292707
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Заполицы",
+                          "longitude": 39.221871,
+                          "latitude": 55.56946
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Щёлково",
+                          "longitude": 38.008823,
+                          "latitude": 55.909353
+                      },
+                      {
+                          "direction": "Казанское",
+                          "title": "Шатура",
+                          "longitude": 39.520704,
+                          "latitude": 55.573125
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Карманово",
+                          "longitude": 37.192377,
+                          "latitude": 56.691789
+                      },
+                      {
+                          "direction": "Ленинградское",
+                          "title": "Алабушево",
+                          "longitude": 37.140709,
+                          "latitude": 56.007945
+                      },
+                      {
+                          "direction": "Кольцевое",
+                          "title": "Яганово",
+                          "longitude": 38.276688,
+                          "latitude": 55.092265
+                      },
+                      {
+                          "direction": "Горьковское",
+                          "title": "Заря",
+                          "longitude": 38.084008,
+                          "latitude": 55.753598
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Вербилки",
+                          "longitude": 37.56054,
+                          "latitude": 56.539231
+                      },
+                      {
+                          "direction": "Савёловское",
+                          "title": "Лебзино",
+                          "longitude": 37.418636,
+                          "latitude": 56.769518
+                      },
+                      {
+                          "direction": "Ярославское",
+                          "title": "Ашукинская",
+                          "longitude": 37.946704,
+                          "latitude": 56.161172
+                      }
+                  ]

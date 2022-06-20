@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-permissions:0.24.7-alpha@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8bbb52183e0317b8c2862e87607344d5/transformed/accompanist-permissions-0.24.7-alpha/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/99173c922c41da076d611e93fa5bf95a/transformed/accompanist-permissions-0.24.7-alpha/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/21a9b421c987dbc32603d8075766faac/transformed/accompanist-permissions-0.24.7-alpha/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2a9bf2fa7cddd6e641ce76c9e1262eca/transformed/accompanist-permissions-0.24.7-alpha/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2a9bf2fa7cddd6e641ce76c9e1262eca/transformed/accompanist-permissions-0.24.7-alpha/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2a9bf2fa7cddd6e641ce76c9e1262eca/transformed/accompanist-permissions-0.24.7-alpha/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-permissions/0.24.7-alpha/22b1c188cc198778f16a989320a2c93c9b7caf1f/accompanist-permissions-0.24.7-alpha-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-permissions/0.24.7-alpha/1a30fc35c6388217061ffde48ca8ae459fb105ba/accompanist-permissions-0.24.7-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
