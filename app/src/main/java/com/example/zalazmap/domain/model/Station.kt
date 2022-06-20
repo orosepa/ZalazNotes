@@ -8,7 +8,7 @@ data class Station(
     val latitude: Double,
     val longitude: Double,
     val title: String,
-    var isProtected: Boolean = false,
-    var isBypassing: Boolean = false,
-    var comment: String = ""
+    var isProtected: Boolean? = null,
+    var isBypassing: Boolean? = null,
+    var comment: String? = null
 )
