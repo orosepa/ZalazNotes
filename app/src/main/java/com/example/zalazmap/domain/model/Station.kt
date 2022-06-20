@@ -10,5 +10,6 @@ data class Station(
     val title: String,
     var isProtected: Boolean? = null,
     var isBypassing: Boolean? = null,
+    var isExplored: Boolean = false,
     var comment: String? = null
 )
