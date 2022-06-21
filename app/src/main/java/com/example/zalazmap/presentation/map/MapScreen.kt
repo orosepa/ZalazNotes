@@ -1,4 +1,4 @@
-package com.example.zalazmap.presentation
+package com.example.zalazmap.presentation.map
 
 import android.content.Context
 import android.graphics.Bitmap

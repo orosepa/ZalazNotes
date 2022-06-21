@@ -1,4 +1,4 @@
-package com.example.zalazmap.presentation
+package com.example.zalazmap.presentation.map
 
 import com.example.zalazmap.domain.model.Station
 import com.google.maps.android.compose.MapProperties

@@ -1,4 +1,4 @@
-package com.example.zalazmap.presentation
+package com.example.zalazmap.presentation.map
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
