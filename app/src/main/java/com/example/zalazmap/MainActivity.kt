@@ -9,8 +9,6 @@ import androidx.compose.material.Surface
 import androidx.compose.ui.Modifier
 import com.example.zalazmap.presentation.MapScreen
 import com.example.zalazmap.ui.theme.ZalazMapTheme
-import com.google.android.gms.location.FusedLocationProviderClient
-import com.google.android.gms.location.LocationServices
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

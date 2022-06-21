@@ -1,6 +1,5 @@
 package com.example.zalazmap.domain.repository
 
-import com.example.zalazmap.data.station.StationEntity
 import com.example.zalazmap.domain.model.Station
 import kotlinx.coroutines.flow.Flow
 

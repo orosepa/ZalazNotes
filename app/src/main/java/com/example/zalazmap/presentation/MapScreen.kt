@@ -1,6 +1,5 @@
 package com.example.zalazmap.presentation
 
-import android.annotation.SuppressLint
 import android.content.Context
 import android.graphics.Bitmap
 import androidx.annotation.DrawableRes
@@ -21,7 +20,6 @@ import androidx.core.content.ContextCompat
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.zalazmap.R
 import com.example.zalazmap.ui.theme.Green800
-import com.example.zalazmap.ui.theme.Purple500
 import com.example.zalazmap.ui.theme.Purple700
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.model.*
