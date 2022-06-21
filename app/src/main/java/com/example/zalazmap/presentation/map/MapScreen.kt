@@ -28,7 +28,7 @@ import kotlinx.coroutines.launch
 
 @Composable
 fun MapScreen(
-    viewModel: MapsViewModel = viewModel()
+    viewModel: MapViewModel = viewModel()
 ) {
 
     val scaffoldState = rememberScaffoldState()
