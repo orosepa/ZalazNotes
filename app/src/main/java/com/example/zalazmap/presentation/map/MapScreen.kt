@@ -1,7 +1,6 @@
 package com.example.zalazmap.presentation.map
 
 import android.content.Context
-import android.graphics.Bitmap
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -17,7 +16,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.core.content.ContextCompat
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.zalazmap.R
 import com.example.zalazmap.domain.model.Station
@@ -165,30 +163,7 @@ fun MapMarker(
     }
 }
 
-fun bitmapDescriptorFromVector(
-    context: Context,
-    vectorResId: Int,
-    color: Int
-): BitmapDescriptor? {
-
-    // retrieve the actual drawable
-    val drawable = ContextCompat.getDrawable(context, vectorResId) ?: return null
-    drawable.setBounds(0, 0, drawable.intrinsicWidth, drawable.intrinsicHeight)
-    drawable.setTint(color)
-
-    val bm = Bitmap.createBitmap(
-        drawable.intrinsicWidth,
-        drawable.intrinsicHeight,
-        Bitmap.Config.ARGB_8888
-    )
-
-    // draw it onto the bitmap
-    val canvas = android.graphics.Canvas(bm)
-    drawable.draw(canvas)
-    return BitmapDescriptorFactory.fromBitmap(bm)
-}
-
-// TODO: create composable for bottom sheet 
+// TODO: create composable for bottom sheet
 @Composable
 fun Station(station: Station?) {
     Box(modifier = Modifier
