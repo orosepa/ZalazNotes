@@ -5,9 +5,10 @@ import android.graphics.Bitmap
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.*
-import androidx.compose.runtime.Composable
-import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
@@ -19,6 +20,7 @@ import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.zalazmap.R
+import com.example.zalazmap.domain.model.Station
 import com.example.zalazmap.ui.theme.Green800
 import com.example.zalazmap.ui.theme.Purple700
 import com.google.android.gms.maps.CameraUpdateFactory
@@ -26,13 +28,22 @@ import com.google.android.gms.maps.model.*
 import com.google.maps.android.compose.*
 import kotlinx.coroutines.launch
 
+@OptIn(ExperimentalMaterialApi::class)
 @Composable
 fun MapScreen(
     viewModel: MapViewModel = viewModel()
 ) {
 
-    val scaffoldState = rememberScaffoldState()
+    val bottomSheetState = rememberBottomSheetState(
+        initialValue = BottomSheetValue.Collapsed
+    )
+    val bottomSheetScaffoldState = rememberBottomSheetScaffoldState(
+        bottomSheetState = bottomSheetState
+    )
     val coroutineScope = rememberCoroutineScope()
+    var currentStation: Station? by remember {
+        mutableStateOf(null)
+    }
 
     // Moscow
     val cameraPositionState = rememberCameraPositionState {
@@ -42,7 +53,16 @@ fun MapScreen(
         )
     }
 
-    Scaffold (scaffoldState = scaffoldState) {
+    BottomSheetScaffold (
+        scaffoldState = bottomSheetScaffoldState,
+        sheetContent = {
+            Station(station = currentStation)
+        },
+        sheetPeekHeight = 0.dp,
+        sheetShape = RoundedCornerShape(topStart = 16.dp, topEnd = 16.dp),
+        backgroundColor = (Color(245, 234, 226))
+
+    ) {
 
         GoogleMap (
             modifier = Modifier.fillMaxSize(),
@@ -92,7 +112,11 @@ fun MapScreen(
                         true
                     },
                     onInfoWindowLongClick = {
-                        viewModel.onEvent(MapEvent.OnInfoWindowLongClick(station))
+                        coroutineScope.launch {
+                            currentStation = station
+                            bottomSheetState.expand()
+                            viewModel.onEvent(MapEvent.OnInfoWindowLongClick(station))
+                        }
                     }
                 )
             }
@@ -162,4 +186,16 @@ fun bitmapDescriptorFromVector(
     val canvas = android.graphics.Canvas(bm)
     drawable.draw(canvas)
     return BitmapDescriptorFactory.fromBitmap(bm)
+}
+
+// TODO: create composable for bottom sheet 
+@Composable
+fun Station(station: Station?) {
+    Box(modifier = Modifier
+        .fillMaxWidth()
+        .height(300.dp),
+        contentAlignment = Alignment.TopCenter
+    ) {
+        Text(text = station?.title ?: "Error")
+    }
 }
