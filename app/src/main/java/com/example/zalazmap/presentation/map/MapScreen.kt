@@ -7,7 +7,6 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.*
 import androidx.compose.runtime.*
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
@@ -54,7 +53,7 @@ fun MapScreen(
     BottomSheetScaffold (
         scaffoldState = bottomSheetScaffoldState,
         sheetContent = {
-            Station(station = currentStation)
+            MapBottomSheet(station = currentStation)
         },
         sheetPeekHeight = 0.dp,
         sheetShape = RoundedCornerShape(topStart = 16.dp, topEnd = 16.dp),
@@ -110,11 +109,12 @@ fun MapScreen(
                         true
                     },
                     onInfoWindowLongClick = {
+                        currentStation = station
                         coroutineScope.launch {
-                            currentStation = station
                             bottomSheetState.expand()
                             viewModel.onEvent(MapEvent.OnInfoWindowLongClick(station))
                         }
+
                     }
                 )
             }
@@ -163,14 +163,3 @@ fun MapMarker(
     }
 }
 
-// TODO: create composable for bottom sheet
-@Composable
-fun Station(station: Station?) {
-    Box(modifier = Modifier
-        .fillMaxWidth()
-        .height(300.dp),
-        contentAlignment = Alignment.TopCenter
-    ) {
-        Text(text = station?.title ?: "Error")
-    }
-}
