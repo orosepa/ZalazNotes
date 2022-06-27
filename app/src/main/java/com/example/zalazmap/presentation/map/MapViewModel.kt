@@ -34,20 +34,6 @@ class MapViewModel @Inject constructor(
 
     fun onEvent(event: MapEvent) {
         when (event) {
-            is MapEvent.OnInfoWindowLongClick -> {
-//                viewModelScope.launch {
-//                    stationRepository.updateStation(
-//                        Station(
-//                            id = event.station.id,
-//                            direction = event.station.direction,
-//                            latitude = event.station.latitude,
-//                            longitude = event.station.longitude,
-//                            title = event.station.title,
-//                            isExplored = !stationRepository.findStationById(event.station.id!!).isExplored
-//                        )
-//                    )
-//                }
-            }
             is MapEvent.OnSaveStationButtonClick -> {
                 viewModelScope.launch {
                     stationRepository.updateStation(event.station)
