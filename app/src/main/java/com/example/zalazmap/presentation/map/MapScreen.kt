@@ -54,7 +54,11 @@ fun MapScreen(
     BottomSheetScaffold (
         scaffoldState = bottomSheetScaffoldState,
         sheetContent = {
-            MapBottomSheet(station = currentStation)
+            MapBottomSheet(
+                station = currentStation,
+                bottomSheetState = bottomSheetState,
+                coroutineScope = coroutineScope
+            )
         },
         sheetPeekHeight = 0.dp,
         sheetShape = RoundedCornerShape(topStart = 16.dp, topEnd = 16.dp),
@@ -97,7 +101,7 @@ fun MapScreen(
                         currentStation = station
                         coroutineScope.launch {
                             bottomSheetState.expand()
-                            viewModel.onEvent(MapEvent.OnInfoWindowLongClick(station))
+                            it.hideInfoWindow()
                         }
                     },
                     station = station
@@ -132,6 +136,7 @@ fun MapMarker(
 
 @Composable
 fun MarkerInfoWindowContent(station: Station) {
+
     Column(
         modifier = Modifier
             .width(260.dp)

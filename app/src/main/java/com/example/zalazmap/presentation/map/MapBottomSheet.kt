@@ -12,11 +12,17 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.zalazmap.domain.model.Station
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.isActive
+import kotlinx.coroutines.launch
 
+@OptIn(ExperimentalMaterialApi::class)
 @Composable
 fun MapBottomSheet(
     station: Station?,
-    viewModel: MapViewModel = viewModel()
+    viewModel: MapViewModel = viewModel(),
+    bottomSheetState: BottomSheetState,
+    coroutineScope: CoroutineScope
 ) {
 
     val protectionCheckboxState = remember { mutableStateOf( false) }
@@ -97,7 +103,9 @@ fun MapBottomSheet(
                         comment = commentState.value.ifBlank { null }
                     )
                 ))
-
+                coroutineScope.launch {
+                    bottomSheetState.collapse()
+                }
             }) {
                 Text(text = "Сохранить")
             }
