@@ -11,6 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
@@ -67,29 +68,13 @@ fun MapScreen(
             cameraPositionState = cameraPositionState,
         ) {
             viewModel.state.stations.forEach { station ->
+
                 val stationState = rememberMarkerState(
                     position = LatLng(station.latitude, station.longitude)
                 )
+
                 MapMarker(
                     state = stationState,
-                    title = station.title,
-                    snippet = "Направление: ${station.direction}" +
-                            "\nТурникеты: ${ 
-                                when (station.isProtected) {
-                                    true -> "есть"
-                                    false -> "нет"
-                                    null -> "нет данных"
-                                } 
-                            }\nОбход: ${
-                                when (station.isBypassing) {
-                                    true -> "есть"
-                                    false -> "нет"
-                                    null -> "нет данных"
-                                }
-                            } ${
-                                if (station.comment.isNullOrBlank()) "" 
-                                else "\nКомментарий: ${station.comment}"
-                            }",
                     context = LocalContext.current,
                     iconResourceId = R.drawable.ic_baseline_circle_24,
                     color = if (station.isExplored) Green800.toArgb() else Purple700.toArgb(),
@@ -114,8 +99,8 @@ fun MapScreen(
                             bottomSheetState.expand()
                             viewModel.onEvent(MapEvent.OnInfoWindowLongClick(station))
                         }
-
-                    }
+                    },
+                    station = station
                 )
             }
         }
@@ -126,40 +111,66 @@ fun MapScreen(
 fun MapMarker(
     context: Context,
     state: MarkerState,
-    title: String,
-    snippet: String,
     color: Int,
     onClick: (Marker) -> Boolean,
     onInfoWindowLongClick: (Marker) -> Unit,
-    @DrawableRes iconResourceId: Int
+    @DrawableRes iconResourceId: Int,
+    station: Station
 ) {
     val icon = bitmapDescriptorFromVector(
         context, iconResourceId, color
     )
     MarkerInfoWindow(
         state = state,
-        title = title,
-        snippet = snippet,
         icon = icon,
         alpha = 0.5f,
         onClick = onClick,
-        onInfoWindowLongClick = onInfoWindowLongClick
+        onInfoWindowLongClick = onInfoWindowLongClick,
+        content = { MarkerInfoWindowContent(station = station) }
+    )
+}
+
+@Composable
+fun MarkerInfoWindowContent(station: Station) {
+    Column(
+        modifier = Modifier
+            .width(260.dp)
+            .background(Color(245, 227, 215))
+            .padding(8.dp),
     ) {
-        Column (
-            modifier = Modifier
-                .width(260.dp)
-                .background(Color(245, 227, 215))
-                .padding(8.dp),
-        ) {
-            Text(
-                text = title,
-                fontWeight = FontWeight.Bold,
-                textAlign = TextAlign.Center,
-                fontSize = 20.sp
-            )
-            Spacer(modifier = Modifier.height(8.dp))
-            Text(text = snippet)
+        Text(
+            text = station.title,
+            fontWeight = FontWeight.Bold,
+            textAlign = TextAlign.Center,
+            fontSize = 20.sp
+        )
+        Spacer(modifier = Modifier.height(8.dp))
+        Text(text = "Направление: ${station.direction}")
+        Text(text = "Турникеты: ${
+            when (station.isProtected) {
+                        true -> "есть"
+                        false -> "нет"
+                        null -> "нет данных"
+                    }
+        }")
+        Text(text = "Обход: ${
+            when (station.isBypassing) {
+                        true -> "есть"
+                        false -> "нет"
+                        null -> "нет данных"
+                    }
+        }")
+        if (!station.comment.isNullOrBlank()) {
+            Text(text = "Комментарий: ${station.comment}")
         }
+        Spacer(modifier = Modifier.height(8.dp))
+        Text(
+            modifier = Modifier.fillMaxWidth(),
+            text = "Долгое нажатие для изменения",
+            fontSize = 12.sp,
+            fontStyle = FontStyle.Italic,
+            textAlign = TextAlign.Right
+        )
     }
 }
 
