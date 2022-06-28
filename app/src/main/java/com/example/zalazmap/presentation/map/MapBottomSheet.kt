@@ -94,7 +94,8 @@ fun MapBottomSheet(
                 )
                 Text(text = "Были здесь?")
             }
-            Button(onClick = {
+            Button(
+                onClick = {
                 coroutineScope.launch {
                     Log.d("D", "MapBottom Sheet current thread is ${Thread.currentThread().name}")
                     bottomSheetState.collapse()

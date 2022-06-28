@@ -19,8 +19,9 @@ import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.zalazmap.R
 import com.example.zalazmap.domain.model.Station
-import com.example.zalazmap.ui.theme.Green800
-import com.example.zalazmap.ui.theme.Purple700
+import com.example.zalazmap.ui.theme.AlmostWhite
+import com.example.zalazmap.ui.theme.LightGreen
+import com.example.zalazmap.ui.theme.Purple
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.model.*
 import com.google.maps.android.compose.*
@@ -62,7 +63,7 @@ fun MapScreen(
         },
         sheetPeekHeight = 0.dp,
         sheetShape = RoundedCornerShape(topStart = 16.dp, topEnd = 16.dp),
-        backgroundColor = (Color(245, 234, 226))
+        backgroundColor = (AlmostWhite)
 
     ) {
 
@@ -81,7 +82,7 @@ fun MapScreen(
                     state = stationState,
                     context = LocalContext.current,
                     iconResourceId = R.drawable.ic_baseline_circle_24,
-                    color = if (station.isExplored) Green800.toArgb() else Purple700.toArgb(),
+                    color = if (station.isExplored) LightGreen.toArgb() else Purple.toArgb(),
                     onClick = {
                         coroutineScope.launch {
                             cameraPositionState.animate(
@@ -140,7 +141,7 @@ fun MarkerInfoWindowContent(station: Station) {
     Column(
         modifier = Modifier
             .width(260.dp)
-            .background(Color(245, 227, 215))
+            .background(Color.LightGray)
             .padding(8.dp),
     ) {
         Text(

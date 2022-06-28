@@ -2,8 +2,9 @@ package com.example.zalazmap.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple200 = Color(0xFFBB86FC)
-val Purple500 = Color(0xFF6200EE)
-val Purple700 = Color(0xFF3700B3)
-val Teal200 = Color(0xFF03DAC5)
-val Green800 = Color(0xFF558B2F)
+val AlmostWhite = Color(0xFFEFEFEF)
+val LightGrey = Color(0xFFABABAB)
+val Grey = Color(0xFF777777)
+val LightGreen = Color(0xFF56A547)
+val Purple = Color(0xFF3700B3)
+val LightPurple = Color(0xFF7356E2)
