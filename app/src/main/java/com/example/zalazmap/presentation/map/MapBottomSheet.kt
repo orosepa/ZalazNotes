@@ -1,5 +1,6 @@
 package com.example.zalazmap.presentation.map
 
+import android.util.Log
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
@@ -13,7 +14,6 @@ import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.zalazmap.domain.model.Station
 import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterialApi::class)
@@ -95,16 +95,17 @@ fun MapBottomSheet(
                 Text(text = "Были здесь?")
             }
             Button(onClick = {
-                viewModel.onEvent(MapEvent.OnSaveStationButtonClick(
-                    station.copy(
-                        isProtected = protectionCheckboxState.value,
-                        isBypassing = passCheckboxState.value,
-                        isExplored = exploreCheckboxState.value,
-                        comment = commentState.value.ifBlank { null }
-                    )
-                ))
                 coroutineScope.launch {
+                    Log.d("D", "MapBottom Sheet current thread is ${Thread.currentThread().name}")
                     bottomSheetState.collapse()
+                    viewModel.onEvent(MapEvent.OnSaveStationButtonClick(
+                        station.copy(
+                            isProtected = protectionCheckboxState.value,
+                            isBypassing = passCheckboxState.value,
+                            isExplored = exploreCheckboxState.value,
+                            comment = commentState.value.ifBlank { null }
+                        )
+                    ))
                 }
             }) {
                 Text(text = "Сохранить")
