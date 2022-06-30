@@ -1,8 +1,7 @@
 package com.example.zalazmap.presentation.map
 
-import android.content.Context
-import androidx.annotation.DrawableRes
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.*
@@ -20,6 +19,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.zalazmap.R
 import com.example.zalazmap.domain.model.Station
 import com.example.zalazmap.ui.theme.AlmostWhite
+import com.example.zalazmap.ui.theme.Grey
 import com.example.zalazmap.ui.theme.LightGreen
 import com.example.zalazmap.ui.theme.Purple
 import com.google.android.gms.maps.CameraUpdateFactory
@@ -63,7 +63,7 @@ fun MapScreen(
         },
         sheetPeekHeight = 0.dp,
         sheetShape = RoundedCornerShape(topStart = 16.dp, topEnd = 16.dp),
-        backgroundColor = (AlmostWhite)
+        backgroundColor = AlmostWhite
 
     ) {
 
@@ -77,11 +77,8 @@ fun MapScreen(
                 val stationState = rememberMarkerState(
                     position = LatLng(station.latitude, station.longitude)
                 )
-
                 MapMarker(
                     state = stationState,
-                    context = LocalContext.current,
-                    iconResourceId = R.drawable.ic_baseline_circle_24,
                     color = if (station.isExplored) LightGreen.toArgb() else Purple.toArgb(),
                     onClick = {
                         coroutineScope.launch {
@@ -114,16 +111,16 @@ fun MapScreen(
 
 @Composable
 fun MapMarker(
-    context: Context,
     state: MarkerState,
     color: Int,
     onClick: (Marker) -> Boolean,
     onInfoWindowLongClick: (Marker) -> Unit,
-    @DrawableRes iconResourceId: Int,
     station: Station
 ) {
     val icon = bitmapDescriptorFromVector(
-        context, iconResourceId, color
+        context = LocalContext.current,
+        vectorResId = R.drawable.ic_baseline_circle_24,
+        color = color
     )
     MarkerInfoWindow(
         state = state,
@@ -137,11 +134,11 @@ fun MapMarker(
 
 @Composable
 fun MarkerInfoWindowContent(station: Station) {
-
     Column(
         modifier = Modifier
             .width(260.dp)
-            .background(Color.LightGray)
+            .background(AlmostWhite)
+            .border(width = 2.dp, color = Grey)
             .padding(8.dp),
     ) {
         Text(
