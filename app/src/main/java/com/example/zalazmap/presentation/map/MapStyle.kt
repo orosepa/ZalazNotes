@@ -1,7 +1,6 @@
 package com.example.zalazmap.presentation.map
 
 object MapStyle {
-    // what changed: administrative.locality, road.local
     val json = """
         [
             {
@@ -355,9 +354,6 @@ object MapStyle {
                 "stylers": [
                     {
                         "visibility": "on"
-                    },
-                    {
-                        "color": "#8a8a8a"
                     }
                 ]
             },
@@ -366,7 +362,7 @@ object MapStyle {
                 "elementType": "labels.text",
                 "stylers": [
                     {
-                        "visibility": "off"
+                        "visibility": "on"
                     }
                 ]
             },
@@ -392,17 +388,29 @@ object MapStyle {
                 ]
             },
             {
-                "featureType": "transit.station.rail",
-                "elementType": "geometry.fill",
+                "featureType": transit.station.rail,
+                "elementType": "labels.text",
                 "stylers": [
-                    {
-                        "visibility": "on"
-                    }
+                  { 
+                        "visibility": «on» 
+                  }
                 ]
-            },
+              },
+              {
+                "featureType": transit.station.rail,
+                "elementType": "labels.text.fill",
+                "stylers": [
+                  { 
+                        "visibility": «on» 
+                  },
+                  {
+                        "color": "#8a8a8a"
+                  }
+                ]
+              },
             {
                 "featureType": "transit.station.rail",
-                "elementType": "geometry.stroke",
+                "elementType": "geometry.fill",
                 "stylers": [
                     {
                         "visibility": "on"
